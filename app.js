@@ -1,7 +1,7 @@
 const form = document.getElementById("chat-form");
 const input = document.getElementById("chat-input");
 const messages = document.getElementById("chat-messages");
-const apiKey = "AIzaSyC4RUIBeU3601PeAy2ulubE1q9hRwmUtlI"; // Google Gemini API Key
+const apiKey = "AIzaSyC4SLNXCJS1BIEyJ7GdQM2c3wqQCjnGphA"; // Google Gemini API Key
 
 form.addEventListener("submit", async (e) => {
     e.preventDefault();
